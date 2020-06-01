@@ -1,3 +1,6 @@
-# astar_bii
+# AStar BII Programming Test
 
-test
+Code with outputs or pdf are in the respective folders.
+
+Question 5 still incomplete.
+
